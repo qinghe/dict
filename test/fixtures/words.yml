@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spell: 
+  wtype: 
+  variant: 
+  translation: 
+  formation: MyString
+
+two:
+  spell: 
+  wtype: 
+  variant: 
+  translation: 
+  formation: MyString
